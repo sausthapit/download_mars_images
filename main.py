@@ -15,7 +15,7 @@ rovers={"curiosity", "opportunity", "spirit"}
 
 # Get your api_key by registering your details.
 
-api_key=""
+api_key="DEMO_KEY"
 
 base_url="https://api.nasa.gov/mars-photos/api/v1/rovers/"
 
